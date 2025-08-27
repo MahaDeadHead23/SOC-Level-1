@@ -1,4 +1,4 @@
-﻿# Task 3 — A day in the life of a Junior (Associate) Security Analyst
+﻿# Task 3 : A day in the life of a Junior (Associate) Security Analyst
 
 <img width="702" height="488" alt="image" src="https://github.com/user-attachments/assets/e8a1e9d4-e9a0-4789-a8bc-412dfc2e9465" />
 # 📅 Task 3: A Day in the Life of a Junior Security Analyst
@@ -26,19 +26,7 @@ A Junior Analyst works on the **frontline** 👨‍💻, triaging alerts and mon
 <img width="443" height="415" alt="image" src="https://github.com/user-attachments/assets/28f4058d-c514-452a-97a9-168ca9dda4e0" />
 
 
-
-
-
-
 ---
-
-**Q2. 📤 To whom did you escalate the event associated with the malicious IP address?**  
-👉 Answer: `Tier 2 SOC Analyst`
-
----
-
-**Q3. 📝 After blocking the malicious IP address on the firewall, what message did the malicious actor leave for you?**  
-👉 Answer: `THM{Nice_Work_Analyst}`
 
 
 <img width="1068" height="600" alt="image" src="https://github.com/user-attachments/assets/2ec6522e-1abf-4950-889f-f91504064f2d" />
