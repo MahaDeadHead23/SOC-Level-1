@@ -21,7 +21,6 @@ A Junior Analyst works on the **frontline** 👨‍💻, triaging alerts and mon
 <img width="1656" height="633" alt="image" src="https://github.com/user-attachments/assets/e7659fc9-a5db-4dba-a20b-e51c77fc97eb" />
 <img width="433" height="250" alt="image" src="https://github.com/user-attachments/assets/ccc21a2f-5e76-47ed-8223-5a330aab39a2" />
 <img width="380" height="274" alt="image" src="https://github.com/user-attachments/assets/a12a4591-12cb-4f1b-9ce3-38335dcee62a" />
-<img width="444" height="359" alt="image" src="https://github.com/user-attachments/assets/c051a5e4-586e-433a-8c11-1112ecdafd1b" />
 <img width="440" height="355" alt="image" src="https://github.com/user-attachments/assets/6f987b0b-f545-44ff-bf9e-dcec914221a7" />
 <img width="443" height="415" alt="image" src="https://github.com/user-attachments/assets/28f4058d-c514-452a-97a9-168ca9dda4e0" />
 
